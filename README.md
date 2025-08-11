@@ -1,6 +1,5 @@
 📝 Desafio Técnico: Performance e Análise de Dados via API
 -
----
 ## Objetivo
 API que recebe um arquivo JSON com 100.000 usuários e oferece endpoints performáticos e bem estruturados para análise dos dados.
 
@@ -9,7 +8,6 @@ API que recebe um arquivo JSON com 100.000 usuários e oferece endpoints perform
 Endpoints 
 ---
 
----
 
 > POST /users
 
